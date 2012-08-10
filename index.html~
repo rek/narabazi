@@ -20,8 +20,7 @@
 			).setCenterZoom({ lat: 27.7, lon: 85.3 }, 14);
 			//adding a zoom tool
 			wax.mm.zoomer(m, tilejson).appendTo(m.parent);
-			m.addLayer(new wax.leaf.connector(tilejson))
-			});
+			}).addLayer(new wax.leaf.connector(tilejson));
 			
 			</script>
 		</div>

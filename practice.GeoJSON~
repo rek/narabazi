@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    { 
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", 
+            "coordinates": [27.6784, 85.3708]
+        }, 
+        "properties": {
+            "name" : "GalliGalli Office",
+            "title" : "GalliGalli Office",
+            "marker-symbol" : "star-stroked"
+        }
+    },
+    { 
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", 
+            "coordinates": [27.6787, 85.3216]
+        }, 
+        "properties": {
+            "name" : "Patan Multiple Campus",
+            "title" : "Patan Multiple Campus",
+            "marker-symbol" : "college"
+        }
+    },
+    { 
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", 
+            "coordinates": [27.6774, 85.3220]
+        }, 
+        "properties": {
+            "name" : "Roti Pasal",
+            "title" : "Roti Pasal",
+            "marker-symbol" : "fast-food"
+        }
+    },
+    { 
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", 
+            "coordinates": [27.6795, 85.3195]
+        }, 
+        "properties": {
+            "name" : "Bhat Bhatini",
+            "title" : "Bhat Bhatini",
+            "marker-symbol" : "grocery"
+        }
+    }]
+}
+
